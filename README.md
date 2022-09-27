@@ -1,1 +1,1 @@
-<img src="images/Wiring.png">
+<img src="images/Wiring.PNG">
